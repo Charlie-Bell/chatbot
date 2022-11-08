@@ -1,0 +1,457 @@
+id,intent,prompt
+1,Age,Do you know how old Charlie is?
+2,Age,What is Charlie's age?
+3,Age,How old will Charlie be in a certain year?
+4,Age,What age is Charlie?
+5,Age,Is Charlie young?
+6,Age,"What is Charlie's age, tell me please."
+7,Age,How many years have passed since Charlie was born?
+8,Age,Charlie's age is what?
+9,Age,When was Charlie born?
+10,Age,Is Charlie how old?
+11,Age,Charlie how old is?
+12,Age,What year is it?
+13,Age,Old is Charlie how?
+14,Age,I'm wondering how old Charlie is.
+15,Age,Is Charlie's age what?
+16,Age,Could you tell me how old Charlie is?
+17,Age,How old is Charlie?
+18,Algorithms,Which machine learning algorithms is Charlie experienced with?
+19,Algorithms,What machine learning algorithms is Charlie familiar with?
+20,Algorithms,"As of now, which machine learning architectures has Charlie had experience with?"
+21,Algorithms,"Up to this point, what machine learning architecture has Charlie been exposed to?"
+22,Algorithms,What machine learning algorithms has Charlie used?
+23,Algorithms,What machine learning algorithms has Charlie worked with?
+24,Algorithms,Which machine learning algorithms has Charlie worked with?
+25,Algorithms,Which machine learning architectures has Charlie worked with?
+26,Algorithms,What machine learning architectures has Charlie worked with so far?
+27,Algorithms,"To date, what machine learning architectures has Charlie worked with?"
+28,Algorithms,What machine learning architecture has Charlie worked with?
+29,Author,"Of all the authors, who does Charlie like the best?"
+30,Author,Who does Charlie like best among authors?
+31,Author,Which writer is closest to Charlie's heart?
+32,Author, Who is Charlie's favorite author?
+33,Author,Which author does Charlie prefer?
+34,Author,"If you had to guess, who would be Charlie's top pick for an author?"
+35,Author,Who does Charlie like best when it comes to authors?
+36,Author,Who is Charlie's favourite author?
+37,Author,Which author is Charlie's favourite?
+38,Birthday,When is Charlie's birth date?
+39,Birthday,Do you know when Charlie's birthday is?
+40,Birthday,Can you tell me when Charlie's birthday is?
+41,Birthday,When was Charlie born?
+42,Birthday,What day does Charlie celebrate his birthday on?
+43,Birthday,What day is Charlie's birthday?
+44,Birthday,What is the date of Charlie's birth?
+45,Birthday,On what day is Charlie's birthday?
+46,Birthday,When is Charlie's birthday?
+47,BookGenre,What is Charlie's favourite genre of books?
+48,BookGenre,Which books does Charlie prefer?
+49,BookGenre,I'm curious about the kinds of books that Charlie likes to read.
+50,BookGenre,What is Charlie's favorite type of book?
+51,BookGenre,What genre of books does Charlie like the most?
+52,BookGenre,What kind of books does Charlie like to read?
+53,BookGenre,Can you tell me what genres of books Charlie prefers? 
+54,BookGenre,"Charlie, what books do you like to read? "
+55,BookGenre,Tell me what types of books Charlie enjoys reading. 
+56,BookGenre,What books does Charlie like best?
+57,BookGenre,Which genre of books is Charlie's favorite?
+58,BookGenre,What Charlie likes to read?
+59,CatsDogs,Does Charlie like cats or dogs?
+60,CatsDogs,Do you want a cat or a dog?
+61,CatsDogs,What does Charlie like- cats or dogs?
+62,CatsDogs,Cats or dogs?
+63,CatsDogs,Are you a cat person or a dog person?
+64,CatsDogs,Do you like cats or dogs better?
+65,CatsDogs,Would you rather have a cat or a dog?
+66,CatsDogs,Does Charlie have a preference for cats or dogs?
+67,CatsDogs,Do cats or dogs appeal to Charlie?
+68,CatsDogs,Which does Charlie prefer- cats or dogs?
+69,CatsDogs,"Which pets do you prefer, cats or dogs?"
+70,CatsDogs,Which animals does Charlie like better- cats or dogs?
+71,Colour,What is Charlie's favourite colour?
+72,Colour,Which coloring does Charlie like the most?
+73,Colour,Which is Charlie's most preferred color?
+74,Colour,What color is Charlie's favorite?
+75,Colour,What is favourite color of Charlie?
+76,Colour,What is Charlie's favorite color?
+77,Experience,What does Charlie know about machine learning?
+78,Experience,What kind of professional experience does Charlie have?
+79,Experience,I'm wondering what experience Charlie has.
+80,Experience,What experience does Charlie have?
+81,Experience,What professional experience does Charlie bring to the table?
+82,Experience,Was Charlie previously involved with machine learning?
+83,Experience,Has Charlie used machine learning before?
+84,Experience,What has Charlie done in regards to machine learning?
+85,Experience,Has Charlie had experience with machine learning in the past?
+86,Experience,What kind of experience does Charlie have?
+87,Experience,How much experience does Charlie have in machine learning?
+88,Experience,How many projects has Charlie completed?
+89,Experience,What are some examples of Charlie's professional experience?
+90,Experience,What has Charlie's experience been with machine learning?
+91,Experience,What is Charlie's opinion on machine learning?
+92,Experience,What did Charlie experience?
+93,Experience,Tell me about Charlie's experience with this.
+94,Experience,Has Charlie worked with machine learning before?
+95,Experience,Is Charlie knowledgeable about machine learning?
+96,Experience,What is Charlie's expertise in machine learning?
+97,Experience,What kind of experiences has Charlie had?
+98,Experience,What has Charlie been through?
+99,Experience,What projects has Charlie completed?
+100,Experience,What is Charlie's background in machine learning?
+101,Experience,What experience does Charlie bring to the table? 
+102,Experience,What is Charlie's experience?
+103,Experience,What experiences has Charlie had?
+104,Experience,What was Charlie's experience?
+105,Experience,Which project did Charlie complete first?
+106,Experience,Can you tell me what experience Charlie has?
+107,Experience,Is Charlie's professional experience relevant to the job?
+108,Experience,What experience does Charlie have with this? 
+109,Experience,What is Charlie's experience in machine learning?
+110,Experience,What has Charlie done in machine learning?
+111,Experience,What sort of experience does Charlie have? 
+112,Experience,What experience does Charlie have in this area? 
+113,Experience,Who else worked on the projects that Charlie completed?
+114,Experience,What did Charlie go through?
+115,Experience,What sorts of things has Charlie experienced?
+116,Experience,What has Charlie gone through?
+117,Experience,How much professional experience does Charlie have?
+118,Experience,What professional experience does Charlie have?
+119,Experience,What kinds of projects has Charlie completed?
+120,Experience,What does Charlie know about machine learning?
+121,Experience,Does Charlie have any professional experience?
+122,Experience,What sort of professional experience does Charlie have?
+123,EyeColour,What are Charlie's eye colors?
+124,EyeColour,What is Charlie's eye colour?
+125,EyeColour,What color are Charlie's eyes?
+126,EyeColour,What shade are Charlie's eyes?
+127,EyeColour,What color are Charlie's eyes?
+128,EyeColour,What colour are Charlie's eyes?
+129,EyeColour,What is the color of Charlie's eyes?
+130,EyeColour,What hues are in Charlie's eyes?
+131,EyeColour,What is the color of Charlie's eyes?
+132,EyeColour,What are the colors of Charlie's eyes?
+133,EyeColour,What is the eye color of Charlie?
+134,EyeColour,What colors do you see in Charlie's eyes?
+135,Family,Who are Charlie's family?
+136,Family,Who are Charlie's siblings?
+137,Family,Who is Charlie's family?
+138,Family,Who are Charlie's parents?
+139,Family,Who are Charlie's relatives?
+140,Family,Does Charlie have a family?
+141,Family,What is Charlie's relationship to his siblings like?
+142,Family,Was Charlie raised by his grandparents?
+143,Family,Whom does Charlie consider to be his family?
+144,Family,Do Charlie's parents live together? 
+145,FavouriteBook,What is Charlie's favouritebook?
+146,FavouriteBook,I wonder if Charlie has a favourite book?
+147,FavouriteBook,Does Charlie have a favourite book?
+148,FavouriteBook,What is Charlie's favourite book?
+149,FavouriteBook,Do you think Charlie has a favourite book?
+150,FavouriteBook,I'd like to know if Charlie has a favourite book?
+151,FavouriteBook,What book is Charlie's favorite?
+152,FavouriteBook,Can you tell me if Charlie has a favourite book?
+153,FavouriteBook,I'm curious to know if Charlie has a favourite book?
+154,FavouriteBook,What is Charlie's favorite book?
+155,FavouriteSong,What is the name of Charlie's favourite song?
+156,FavouriteSong,Which song is Charlie's favourite?
+157,FavouriteSong,What is Charlie's top pick when it comes to songs?
+158,FavouriteSong,What is Charlie's favourite song?
+159,FavouriteSong,What tune does Charlie like the most?
+160,FavouriteSong,What is Charlie's favourite song?
+161,Frameworks,Can you tell me what programming libraries Charlie works with?
+162,Frameworks,Which frameworks does Charlie know?
+163,Frameworks,What programming libaries does Charlie work with?
+164,Frameworks,How many frameworks does Charlie know?
+165,Frameworks,What frameworks is Charlie familiar with?
+166,Frameworks,What programming libraries does Charlie work with?
+167,Frameworks,What frameworks does Charlie know?
+168,Frameworks,What are the programming libraries that Charlie uses?
+169,Frameworks,What frameworks does Charlie know how to use?
+170,Frameworks,What libaries does charlie use for programming?
+171,Frameworks,What is Charlie's level of expertise with different frameworks?
+172,Frameworks,Which programming libraries does Charlie use?
+173,Gender,What gender is Charlie?
+174,Gender,What is Charlie's gender?
+175,Gender,What is Charlie's sex? 
+176,Gender,What is Charlie's gender identity?
+177,Gender,What gender is Charlie? 
+178,Gender,What is Charlie's biological sex? 
+179,Gender,Is Charlie a male or female? 
+180,Gender,What is the gender of Charlie?
+181,German,Is Charlie able to speak German?
+182,German,What languages is Charlie able to speak?
+183,German,What languages does Charlie know how to speak?
+184,German,Can Charlie speak German?
+185,German,What languages does Charlie speak?
+186,German,Could Charlie speak German if he wanted to?
+187,German,How many languages does Charlie speak?
+188,German,Might Charlie be able to fluently speak German?
+189,German,What languages can Charlie speak?
+190,German,Does Charlie speak German?
+191,German,Which languages does Charlie fluently speak?
+192,Grades,What grades did Charlie get in University?
+193,Grades,What types of grades did Charlie get while attending University?
+194,Grades,What were Charlie's grades like when he was in University?
+195,Grades,What were Charlie's grades?
+196,Grades,How well did Charlie do while he was studying at University?
+197,Grades,Was Charlie a good student?
+198,Grades,Did Charlie get good grades?
+199,Grades,What grades did Charlie receive while he was in University?
+200,Grades,How did Charlie do in school?
+201,Grades,What kind of academic performance did Charlie have while in school?
+202,Grades,What were Charlie's grades like?
+203,GuitarMusic,How long ago did Charlie start playing guitar?
+204,GuitarMusic,Has Charlie been playing guitar for a while?
+205,GuitarMusic,How many years has Charlie been playing guitar for?
+206,GuitarMusic,When did Charlie start playing guitar?
+207,GuitarMusic,How long has Charlie been playing guitar?
+208,GuitarMusic,For how long has Charlie been playing guitar?
+209,HairColour,What tones are in Charlie's hair? 
+210,HairColour,What colors make up Charlie's hair?
+211,HairColour,What is Charlie's hair colour?
+212,HairColour,What shade is Charlie's hair? 
+213,HairColour,What colour does Charlie have in their hair?
+214,HairColour,What color does Charlie dye their hair?
+215,HairColour,What hues are in Charlie's hair? 
+216,HairColour,What color is Charlie's hair?
+217,HairColour,What color is Charlie's hair? 
+218,HairColour,What colour is Charlie's hair?
+219,HairColour,Is Charlie's hair light or dark? 
+220,HairColour,Charlie's hair - what shade is it?
+221,Height,How many centimetres tall is Charlie?
+222,Height,What is Charlie's height?
+223,Height,"Tell me, what is Charlie's height?"
+224,Height,Is Charlie tall?
+225,Height,How tall is Charlie?
+226,Height,"Can you tell me Charlie's height, please?"
+227,Height,What is the height of Charlie?
+228,Height,How many metres tall is Charlie?
+229,Height,Charlie's height - what is it?
+230,Hobbies,What are Charlie's hobbies?
+231,Hobbies,What are some things Charlie likes to do?
+232,Hobbies,What are Charlie's interests?
+233,Hobbies,What does Charlie like to do for fun?
+234,Hobbies,What are some of Charlie's favorite activities?
+235,Hometown,Charlie is from where?
+236,Hometown,How was Charlie's upbringing?
+237,Hometown,Where is Charlie from?
+238,Hometown,Where does Charlie come from?
+239,Hometown,Where did Charlie grow up?
+240,Hometown,What is Charlie's hometown?
+241,Hometown,Where is Charlie's hometown?
+242,Hometown,Where was Charlie's childhood?
+243,Hometown,How did Charlie grow up?
+244,Hometown,Where was Charlie born?
+245,Hometown,What is Charlie's background?
+246,Hometown,Where does Charlie come from?
+247,Interests,What kinda stuff does Charlie like?
+248,Interests,What are the things that Charlie is interested in?
+249,Interests,What does Charlie want?
+250,Interests,What sort of things does Charlie like?
+251,Interests,What is Charlie's favorite thing?
+252,Interests,What does Charlie like?
+253,Interests,What does Charlie prefer?
+254,Interests,What does Charlie enjoy?
+255,Interests,What does Charlie like to do?
+256,Interests,What are some of Charlie's interests?
+257,Interests,Charlie - what are you into?
+258,Interests,What are Charlie's interests?
+259,IsGood,Would Charlie excel in this role?
+260,IsGood,Does Charlie fit the job requirements?
+261,IsGood,Is Charlie suited for the position?
+262,IsGood,Would Charlie be good for the job?
+263,IsGood,Can Charlie do the job?
+264,IsGood,Is Charlie a good fit for the job?
+265,Live,Where does Charlie reside?
+266,Live,Where does Charlie live?
+267,Live,Where is Charlie's house?
+268,Live,Where is Charlie's home?
+269,Live,Who does Charlie live with?
+270,Live,What is Charlie's address?
+271,MLFrameworks,What machine learning frameworks does Charlie understand?
+272,MLFrameworks,How many machine learning frameworks does Charlie know?
+273,MLFrameworks,Can you list the machine learning frameworks that Charlie knows?
+274,MLFrameworks,What machine learning frameworks is Charlie familiar with?
+275,MLFrameworks,What are the machine learning frameworks that Charlie knows?
+276,MLFrameworks,What machine learning frameworks is Charlie familiar with?
+277,MLFrameworks,Which machine learning frameworks does Charlie know?
+278,MLFrameworks,How many machine learning frameworks does Charlie know?
+279,MLFrameworks,What machine learning frameworks does Charlie know how to use?
+280,MLFrameworks,What machine learning frameworks does Charlie know?
+281,MLFrameworks,Can you name a few of the machine learning frameworks Charlie knows?
+282,Movie,What is Charlie's favorite movie?
+283,Movie,What is Charlie's favourite movie?
+284,MusicArtist,Who is Charlie's favorite musical artist?
+285,MusicArtist,Who does Charlie think is the best musical artist?
+286,MusicArtist,What is Charlie's favorite musical artist?
+287,MusicArtist,Who is Charlie's favourite musical artist?
+288,MusicArtist,Which musician does Charlie have the most favor for?
+289,MusicArtist,Which musical artist does Charlie like the best?
+290,MusicGenre,What kind of music is Charlie's favourite?
+291,MusicGenre,What style of music does Charlie favor?
+292,MusicGenre,Which kind of music does Charlie like best?
+293,MusicGenre,What type of music does Charlie prefer?
+294,MusicGenre,What type of music does Charlie like the most?
+295,MusicGenre,What is Charlie's favourite music genre?
+296,MusicGenre,What is Charlie's favourite type of music?
+297,MusicGenre,Which genre of music is Charlie's favorite?
+298,MusicGenre,Which music genre does Charlie prefer?
+299,MusicGenre,What kind of music does Charlie like?
+300,MusicGenre,What sort of music does Charlie enjoy?
+301,NLPFrameworks,What NLP frameworks does Charlie know?
+302,NLPFrameworks,Which NLP frameworks can Charlie use?
+303,NLPFrameworks,Which NLP frameworks is Charlie experienced with?
+304,NLPFrameworks,What experiences does Charlie have with NLP?
+305,NLPFrameworks,What NLP frameworks does Charlie have experience with?
+306,NLPFrameworks,Does Charlie know NLP frameworks?
+307,NLPFrameworks,Can Charlei use NLP frameworks?
+308,Parkour,For how long has Charlie trained parkour?
+309,Parkour,How long ago did Charlie start training parkour?
+310,Parkour,Why hasn't Charlie stopped training parkour yet?
+311,Parkour,How much longer does Charlie have to train parkour?
+312,Parkour,When will Charlie finally be done training parkour?
+313,Parkour,How long has Charlie trained parkour?
+314,ProgrammingLanguages,In which programming languages is Charlie proficient?
+315,ProgrammingLanguages,"I'm wondering, what programming languages does Charlie have experience with?"
+316,ProgrammingLanguages,Does Charlie know any programming languages?
+317,ProgrammingLanguages,What is the programming language that Charlie is good at?
+318,ProgrammingLanguages,What are the programming languages that Charlie is able to use?
+319,ProgrammingLanguages,Could you tell me the programming languages that Charlie knows how to utilize?
+320,ProgrammingLanguages,Which programming languages does Charlie know?
+321,ProgrammingLanguages,Could you list the programming languages Charlie knows?
+322,ProgrammingLanguages,Is Charlie knowledgeable in any programming languages?
+323,ProgrammingLanguages,What programming languages can Charlie use?
+324,ProgrammingLanguages,What are the programming languages that Charlie is good at?
+325,ProgrammingLanguages,What programming languages can Charlie use well?
+326,ProgrammingLanguages,What programming languages can Charlie use?
+327,ProgrammingLanguages,What extent is Charlie proficient in different programming languages?
+328,ProgrammingLanguages,What is the programming language that Charlie knows well?
+329,ProgrammingLanguages,Which programming languages is Charlie familiar with?
+330,ProgrammingLanguages,Did Charlie learn any programming languages?
+331,ProgrammingLanguages,What are the programming languages that Charlie knows how to use?
+332,ProgrammingLanguages,What are the programming languages that Charlie is able to use?
+333,ProgrammingLanguages,What programming languages does Charlie know?
+334,ProgrammingLanguages,What coding languages does Charlie know?
+335,ProgrammingLanguages,What programming languages does Charlie know?
+336,ProgrammingLanguages,Which programming languages does Charlie know how to use?
+337,ProgrammingLanguages,What programming language is Charlie proficient in?
+338,ProgrammingLanguages,How many programming languages does Charlie know?
+339,ProgrammingLanguages,Do you happen to know which programming languages Charlie is proficient in?
+340,ProgrammingLanguages,What is the programming language that Charlie is knowledgeable in?
+341,ProgrammingLanguages,What are the programming languages in which Charlie is proficient?
+342,ProgrammingLanguages,What languages can Charlie program in?
+343,ProgrammingLanguages,What programming languages does Charlie know how to use?
+344,ProgrammingLanguages,Which programming languages can Charlie use?
+345,ProgrammingLanguages,Charlie knows how to code in a variety of languages.
+346,RemoteWork,What is Charlie's opinion on working from a distance? 
+347,RemoteWork,Would Charlie consider remote work?
+348,RemoteWork,What does Charlie think about working remote?
+349,RemoteWork,"Does Charlie like working from home, or would he prefer an office?"
+350,RemoteWork,Is Charlie open to the idea of working remotely?
+351,RemoteWork,What are Charlie's thoughts on working remotely?
+352,RemoteWork,What does Charlie think of telecommuting? 
+353,RemoteWork,Do you think Charlie would be interested in remote work?
+354,RemoteWork,What does Charlie think about working from home? 
+355,RemoteWork,Does Charlie have any reservations about working remotely?
+356,RemoteWork,How does Charlie feel about working remotely? 
+357,RemoteWork,Would Charlie be open to the idea of working remotely?
+358,Responsibilities,What does Charlie do at Bilfinger?
+359,Responsibilities,What is Charlie's job?
+360,Responsibilities,What line of work is Charlie in?
+361,Responsibilities,What role does Charlie play at Bilfinger?
+362,Responsibilities,What are Charlie's duties?
+363,Responsibilities,How does Charlie contribute to Bilfinger?
+364,Responsibilities,What tasks does Charlie perform at Bilfinger?
+365,Responsibilities,What is Charlie's job at Bilfinger?
+366,Responsibilities,What does Charlie do at his job?
+367,Responsibilities,Charlie is responsible for...?
+368,Responsibilities,How does Charlie earn a living?
+369,Responsibilities,What did Charlie do at his previous job?
+370,Responsibilities,Tell me about Charlie's old job.
+371,Responsibilities,What does Charlie do for work?
+372,Responsibilities,What are Charlie's tasks and responsibilities?
+373,Responsibilities,What is Charlie's job?
+374,Responsibilities,What was Charlie's old job?
+375,Responsibilities,Charlie's old job - what did he do there?
+376,Responsibilities,Charlie's tasks and responsibilities are...?
+377,Responsibilities,What does Charlie have to do at work?
+378,Responsibilities,What did Charlie do at his old job?
+379,Responsibilities,What is Charlie's occupation?
+380,Responsibilities,Describe to me what Charlie did at his old job.
+381,School,Which school did Charlie attend?
+382,School,To which school did Charlie go?
+383,School,What is the name of the school that Charlie went to?
+384,School,Where did Charlie go to school?
+385,School,"Did Charlie go to school? If so, where?"
+386,Studies,What was Charlie's area of study? 
+387,Studies,What did Charlie study?
+388,Studies,Which university did Charlie attend?
+389,Studies,What did Charlie study at University?
+390,Studies,What degree did Charlie earn from University?
+391,Studies,What is Charlie's education history?
+392,Studies,What was Charlie's educational background?
+393,Studies,What subject did Charlie focus on during their time at University?
+394,Studies,What school did Charlie go to for university?
+395,Studies,Where did Charlie study?
+396,Studies,What did Charlie study at University?
+397,Studies,To what did Charlie devote his studies? 
+398,Studies,Where did Charlie go to University?
+399,Studies,What was Charlie's major in college?
+400,Studies,Of what was Charlie's studying composed?
+401,Studies,What did Charlie focus on in his studies? 
+402,Studies,Where did Charlie go to school?
+403,Studies,Where did Charlie receive his education?
+404,Studies,Which subject did Charlie investigate through his studies? 
+405,Studies,What was Charlie's Alma Mater?
+406,Studies,Which University did Charlie attend for their studies?
+407,Studies,Which college did Charlie graduate from?
+408,Travel,Where is Charlie's desired travel destination?
+409,Travel,Which country does Charlie want to travel to?
+410,Travel,Which location is Charlie interested in traveling to?
+411,Travel,What place does Charlie want to visit?
+412,Travel,To where does Charlie want to go?
+413,Travel,Where does Charlie want to travel?
+414,TV,Which television program does Charlie prefer over all others?
+415,TV,What sort of TV shows does Charlie watch?
+416,TV,"If Charlie had to pick just one, which TV series would be his favorite?"
+417,TV,What TV shows does Charlie like to watch?
+418,TV,What are some of the TV shows that Charlie watches?
+419,TV,Can you tell me what TV shows Charlie watches?
+420,TV,What TV show does Charlie like the best?
+421,TV,Which TV shows does Charlie watch?
+422,TV,What TV shows does Charlie watch?
+423,TV,What is Charlie's favorite TV series?
+424,TV,What is Charlie's favourite TV Series?
+425,TV,"Of all the TV shows out there, which is Charlie's favorite?"
+426,Weight,How much does Charlie weigh in pounds?
+427,Weight,What is Charlie's weight in pounds?
+428,Weight,What is Charlie's weight?
+429,Weight,How much does Charlie weigh?
+430,Weight,How heavy is Charlie?
+431,Weight,How many kilos does Charlie weigh?
+432,Weight,How much does charlie weigh?
+433,WhatJob,Where does Charlie earn a living?
+434,WhatJob,What line of work is Charlie in? 
+435,WhatJob,What does Charlie do for work?
+436,WhatJob,What company does Charlie work for?
+437,WhatJob,How does Charlie earn a living? 
+438,WhatJob,Where does Charlie work?
+439,WhatJob,What is Charlie's job?
+440,WhatJob,What is Charlie's job? 
+441,WhatJob,Who does Charlie work for?
+442,WhatJob,Where is Charlie's place of work?
+443,WhatJob,What does Charlie do to make money? 
+444,WhatJob,What is Charlie's occupation?
+445,WhyBerlin,What made Charlie decide to move to Berlin?
+446,WhyBerlin,Why did Charlie choose to move to Berlin?
+447,WhyBerlin,What prompted Charlie to move to Berlin?
+448,WhyBerlin,Why was Berlin the chosen destination for Charlie?
+449,WhyBerlin,Why did Charlie move to Berlin?
+450,WhyBerlin,For what reason did Charlie relocate to Berlin?
+451,Experience,What makes Charlie think he would be good at this job?
+452,Experience,Why is this job appealing to Charlie?
+453,Experience,What does this job offer that Charlie finds attractive?
+454,Experience,Why does Charlie feel qualified for this position?
+455,Experience,What are Charlie's motivations for wanting this job?
+456,Experience,Why does Charlie want this job?

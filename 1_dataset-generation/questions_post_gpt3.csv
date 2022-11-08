@@ -1,0 +1,468 @@
+,intent,prompt
+0,Family,Who are Charlie's family?
+1,NLPFrameworks,What do NLP frameworks Charlie now?
+2,German,Is Charlie able to speak German?
+3,WhatJob,Where does Charlie earn a living?
+4,ProgrammingLanguages,which programming languages is Charlie proficient?
+5,School,Which school did Charlie attend?
+6,Experience,What does Charlie think about machine learning?
+7,Studies,What was Charlie's area of study? 
+8,FavouriteSong,t is the name of Charlie's favourite song?
+9,HairColour,at tones are in Charlie's hair? 
+10,MusicGenre,What kind of music is Charlie's favourite?
+11,TV,Which television program does Charlie prefer over all others?
+12,CatsDogs,Does Charlie like cats or dogs?
+13,Height,How many inches tall is Charlie?
+14,MusicGenre,What style of music does Charlie favor?
+15,MusicArtist,Who is Charlie's favorite musical artist?
+16,Height,What is Charlie's height?
+17,WhatJob,at line of work is Charlie in? 
+18,Responsibilities,What does Charlie do at Bilfinger?
+19,ProgrammingLanguages,"I'm wondering, what programming languages does Charlie have experience with?"
+20,RemoteWork,at is Charlie's opinion on working from a distance? 
+21,Hometown,Charlie is from where?
+22,FavouriteBook,hat is CHARLIE'S FAVORITE BOOK
+23,MLFrameworks,hat machine learning frameworks does Charlie understand?
+24,Frameworks,Can you tell me what programming libraries Charlie works with?
+25,German,What languages is Charlie able to speak?
+26,Responsibilities,hat is Charlie's job?
+27,Hometown,hat was Charlie's upbringing?
+28,Experience,What kind of professional experience does Charlie have?
+29,Gender,What gender is Charlie?
+30,Gender,ho is Charlie's gender?
+31,Responsibilities,hat line of work isCharlie in?
+32,FavouriteBook,What is Charlie's favouritebook?
+33,Age,Do you know how old Charlie is?
+34,FavouriteSong,ch melody does Charlie have as his favourite?
+35,Experience,I'm wondering what experience Charlie has.
+36,HairColour,at colors make up Charlie's hair?
+37,Family,Who are Charlie's siblings?
+38,WhyJob,What makes Charlie think he would be good at this job?
+39,Weight,How much does Charlie weigh in pounds?
+40,Experience,What experience does Charlie have?
+41,Experience,What professional experience does Charlie bring to the table?
+42,FavouriteBook, wonder if Charlie has a favourite book?
+43,Height,"Tell me, what is Charlie's height?"
+44,WhyBerlin,What made Charlie decide to move to Berlin?
+45,HairColour,What is Charlie's hair colour?
+46,MLFrameworks,ow many machine learning frameworks does Charlie know?
+47,Hobbies,What are Charlie's hobbies?
+48,Experience,Was Charlie previously involved with machine learning?
+49,Frameworks,Which frameworks does Charlie know?
+50,Experience,Has Charlie used machine learning before?
+51,Studies,What did Charlie study?
+52,Family,Who is Charlie's family?
+53,Hometown,Where is Charlie from?
+54,Responsibilities,What role does Charlie play at Bilfinger?
+55,IsGood,Would Charlie excel in this role?
+56,Age,What is Charlie's age?
+57,GuitarMusic,How long ago did Charlie start playing guitar?
+58,GuitarMusic,Has Charlie been playing guitar for a while?
+59,MusicGenre,Which kind of music does Charlie like best?
+60,German,What languages does Charlie know how to speak?
+61,WhatJob,What does Charlie do for work?
+62,Interests,"HeyCharlie, what kinda stuff you like?"
+63,Experience,What has Charlie been through in regards to machine learning?
+64,Studies,Which university did Charlie attend?
+65,Algorithms,Which machine learning algorithms is Charlie experienced with?
+66,WhyJob,Why is this job appealing to Charlie?
+67,ProgrammingLanguages,Does Charlie know any programming languages?
+68,Studies,at did Charlie study at University?
+69,Responsibilities,What are Charlie's duties?
+70,Live,Where does Charlie reside?
+71,Algorithms,What machine learning algorithms is Charlie familiar with?
+72,MusicArtist,Who does Charlie think is the best musical artist?
+73,CatsDogs,Do you want a cat or a dog?
+74,Age,How old will Charlie be in a certain year?
+75,MLFrameworks,an you list the machine learning frameworks that Charlie knows?
+76,CatsDogs,hat does Charlie like- cats or dogs?
+77,Hometown,here did Charlie come from?
+78,Colour,What is Charlie's favourite colour?
+79,Experience,Has Charlie had experience with machine learning in the past?
+80,MLFrameworks,What machine learning frameworks is Charlie familiar with?
+81,Interests,What are the things that Charlie is interested in?
+82,Responsibilities,How does Charlie contribute to Bilfinger?
+83,HairColour,at shade is Charlie's hair? 
+84,Studies,at degree did Charlie earn from University?
+85,Author,"Of all the authors, who does Charlie like the best?"
+86,Grades,What grades did Charlie get in University?
+87,Birthday,When is Charlie's birth date?
+88,Birthday,Do you know when Charlie's birthday is?
+89,German,Can Charlie speak German?
+90,Responsibilities,What tasks does Charlie perform at Bilfinger?
+91,FavouriteBook,Does Charlie have a favourite book?
+92,Height,Is Charlie taller than me?
+93,Colour,Which coloring does Charlie like the most?
+94,Parkour,For how long has Charlie trained parkour?
+95,Hometown,Where did Charlie grow up?
+96,Height,How tall is Charlie?
+97,FavouriteSong,t isCharlie's top pick when it comes to songs?
+98,Colour,Which is Charlie's most preferred color?
+99,FavouriteBook,What is Charlie's favourite book?
+100,Weight,What is Charlie's weight in pounds?
+101,EyeColour,t are Charlie's eye colors?
+102,EyeColour,What is Charlie's eye colour?
+103,Age,What age is Charlie?
+104,Experience,What kind of experience does Charlie have?
+105,Experience,How much experience does Charlie have in machine learning?
+106,WhyJob,What does this job offer that Charlie finds attractive?
+107,Responsibilities,What is Charlie's job at Bilfinger?
+108,RemoteWork,Would Charlie consider remote work?
+109,Frameworks,What programming libaries does Charlie work with?
+110,Family,Who are Charlie's parents?
+111,Experience,How many projects has Charlie completed?
+112,MLFrameworks,hat are the machine learning frameworks that Charlie knows?
+113,Grades,hat types of grades did Charlie get while attending University?
+114,Experience,What are some examples of Charlie's professional experience?
+115,Responsibilities,What does Charlie do at his job?
+116,MLFrameworks,hat machine learning frameworks is Charlie familiar with?
+117,EyeColour,hat color are Charlie's eyes?
+118,Grades,hat were Charlie's grades like when he was in University?
+119,Parkour,How long ago did Charlie start training parkour?
+120,Grades,What were Charlie's grades?
+121,WhatJob,What company does Charlie work for?
+122,Birthday,Can you tell me when Charlie's birthday is?
+123,WhatJob,w does Charlie earn a living? 
+124,ProgrammingLanguages,t is the programming language that Charlie is good at?
+125,BookGenre,What is Charlie's favourite genre of books?
+126,ProgrammingLanguages,at are the programming languages that Charlie is able to use?
+127,Birthday,When was Charlie born?
+128,RemoteWork,What does Charlie think about working remote?
+129,Responsibilities,Charlie is responsible for...?
+130,Experience,What has Charlie's experience been with machine learning?
+131,Gender,at is Charlie's sex? 
+132,Age,How oldCharlie?
+133,ProgrammingLanguages,Could you tell me the programming languages that Charlie knows how to utilize?
+134,Author,Who does Charlie like best among authors?
+135,MusicArtist,What is Charlie's favorite musical artist?
+136,Hometown,What is Charlie's hometown?
+137,Experience,What is Charlie's opinion on machine learning?
+138,Colour,What color is Charlie's favorite?
+139,Studies,What is Charlie's education history?
+140,HairColour,What colour does Charlie have in their hair?
+141,FavouriteBook,o you think Charlie has a favourite book?
+142,CatsDogs,Cats or dogs?
+143,Hometown,Where is Charlie's hometown?
+144,Travel,Where is Charlie's desired travel destination?
+145,RemoteWork,"es Charlie like working from home, or would he prefer an office?"
+146,Colour,What is favourite color of Charlie?
+147,EyeColour,hat shade are Charlie's eyes?
+148,Author,ch writer is closest to Charlie's heart?
+149,Experience,What did Charlie experience?
+150,Travel,Which country does Charlie want to travel to?
+151,School,To which school did Charlie go?
+152,Weight,What is Charlie's weight?
+153,Gender,hat use is a gender to Charlie?
+154,IsGood,Does Charlie fit the job requirements?
+155,Frameworks,How many frameworks does Charlie know?
+156,HairColour,What color does Charlie dye their hair?
+157,Family,How many cousins does Charlie have?
+158,Algorithms,"As of now, which machine learning architectures has Charlie had experience with?"
+159,Hobbies,t are some things Charlie likes to do?
+160,Travel,Which location is Charlie interested in traveling to?
+161,TV,What sort of TV shows does Charlie watch?
+162,Author, is Charlie's favorite author?
+163,Grades,ow well did Charlie do while he was studying at University?
+164,Height,"Can you tell me Charlie's height, please?"
+165,Movie,t is Charlie's favorite movie?
+166,Grades,Was Charlie a good student?
+167,ProgrammingLanguages,Which programming languages does Charlie know?
+168,German,What languages does Charlie speak?
+169,Responsibilities,ow does Charlie earn a living?
+170,Frameworks,What frameworks is Charlie familiar with?
+171,Responsibilities,What did Charlie do at his previous job?
+172,MusicArtist,Who is Charlie's favourite musical artist?
+173,Gender,at is Charlie's gender identity?
+174,RemoteWork,Charlie open to the idea of working remotely?
+175,Age,"What is Charlie's age, tell me please."
+176,Interests,What does Charlie want?
+177,WhatJob,Where does Charlie work?
+178,Studies,What was Charlie's educational background?
+179,Responsibilities,Tell me about Charlie's old job.
+180,WhyBerlin,Why did Charlie choose to move to Berlin?
+181,IsGood,Is Charlie suited for the position?
+182,Live,Where does Charlie live?
+183,ProgrammingLanguages,Could you list the programming languages Charlie knows?
+184,School,hat is the name of the school that Charlie went to?
+185,Frameworks,What programming libraries does Charlie work with?
+186,Grades,Did Charlie get good grades?
+187,Author,Which author does Charlie prefer?
+188,Algorithms,"Up to this point, what machine learning architecture has Charlie been exposed to?"
+189,MusicArtist,Which musician does Charlie have the most favor for?
+190,EyeColour,t color are Charlie's eyes?
+191,Parkour,Why hasn't Charlie stopped training parkour yet?
+192,CatsDogs,Are you a cat person or a dog person?
+193,German,Could Charlie speak German if he wanted to?
+194,Algorithms,What machine learning algorithms has Charlie used?
+195,Author,"you had to guess, who would be Charlie's top pick for an author?"
+196,CatsDogs,Do you like cats or dogs better?
+197,MusicArtist,Which musical artist does Charlie like the best?
+198,Age,How many years have passed since Charlie was born?
+199,ProgrammingLanguages,Is Charlie knowledgeable in any programming languages?
+200,Algorithms,What machine learning algorithms has Charlie worked with?
+201,Frameworks,What frameworks does Charlie know?
+202,BookGenre,Which books does Charlie prefer?
+203,Grades,hat grades did Charlie receive while he was in University?
+204,Height,What is the height of Charlie?
+205,Studies,at subject did Charlie focus on during their time at University?
+206,Hobbies,t are Charlie's interests?
+207,RemoteWork,t are Charlie's thoughts on working remotely?
+208,Experience,Tell me about Charlie's experience with this.
+209,Grades,How did Charlie do in school?
+210,WhatJob,What is Charlie's job?
+211,BookGenre,I'm curious about the kinds of books that Charlie likes to read.
+212,Experience,Has Charlie worked with machine learning before?
+213,Experience,Is Charlie knowledgeable about machine learning?
+214,MusicGenre,What type of music does Charlie prefer?
+215,Gender,at gender is Charlie? 
+216,Experience,"Charlie, what experience do you have?"
+217,WhyJob,Why does Charlie feel qualified for this position?
+218,Birthday,What day does Charlie celebrate his birthday on?
+219,ProgrammingLanguages,What programming languages can Charlie use?
+220,Hometown,here was Charlie's childhood?
+221,Age,Charlie's age is what?
+222,Live,How many people live in Charlie's house?
+223,Experience,What is Charlie's expertise in machine learning?
+224,TV,"If Charlie had to pick just one, which TV series would be his favorite?"
+225,FavouriteSong,t is Charlie's favourite song?
+226,Hometown,ow did Charlie grow up?
+227,Movie,What is Charlie's favourite movie?
+228,Grades,hat kind of academic performance did Charlie have while in school?
+229,CatsDogs,Would you rather have a cat or a dog?
+230,Travel,What place does Charlie want to visit?
+231,TV,What TV shows does Charlie like to watch?
+232,TV,What are some of the TV shows that Charlie watches?
+233,BookGenre,What is Charlie's favorite type of book?
+234,Experience,What kind of experiences has Charlie had?
+235,Algorithms,Which machine learning algorithms has Charlie worked with?
+236,Author, does Charlie like best when it comes to authors?
+237,MusicGenre,What type of music does Charlie like the most?
+238,WhyBerlin,What prompted Charlie to move to Berlin?
+239,Experience,What has Charlie been through?
+240,FavouriteBook,Whatcharlierie's favourilykite bookeredoctor Papa?
+241,Studies,What school did Charlie go to for university?
+242,Experience,What projects has Charlie completed?
+243,Interests,What sort of things does Charlie like?
+244,MLFrameworks,Which machine learning frameworks does Charlie know?
+245,WhyBerlin,Why was Berlin the chosen destination for Charlie?
+246,Experience,What is Charlie's background in machine learning?
+247,Weight,How much does Charlie weigh?
+248,MLFrameworks,How many machine learning frameworks does Charlie know?
+249,FavouriteSong,t tune does Charlie like the most?
+250,Experience,
+251,Responsibilities,hat does Charlie do for work?
+252,Experience,What experience does Charlie bring to the table? 
+253,Responsibilities,What are Charlie's tasks and responsibilities?
+254,RemoteWork,at does Charlie think of telecommuting? 
+255,EyeColour,What colour are Charlie's eyes?
+256,Frameworks,What are the programming libraries that Charlie uses?
+257,HairColour,at hues are in Charlie's hair? 
+258,Live,Where is Charlie's home?
+259,German,How many languages does Charlie speak?
+260,TV,Can you tell me what TV shows Charlie watches?
+261,TV,What TV show does Charlie like the best?
+262,Author,Who is Charlie's favourite author?
+263,ProgrammingLanguages,t are the programming languages that Charlie is good at?
+264,Author,Which author is Charlie's favourite?
+265,ProgrammingLanguages,t programming languages can Charlie use well?
+266,Studies,Where did Charlie study?
+267,BookGenre,What genre of books does Charlie like the most?
+268,German,Might Charlie be able to fluently speak German?
+269,TV,Which TV shows does Charlie watch?
+270,Family,Who are Charlie's relatives?
+271,FavouriteBook,'d like to know if Charlie has a favourite book?
+272,MusicGenre,What is Charlie's favourite music genre?
+273,German,What languages can Charlie speak?
+274,IsGood,Would Charlie be good for the job?
+275,Experience,What is Charlie's experience?
+276,IsGood,Can Charlie do the job?
+277,GuitarMusic,How many years has Charlie been playing guitar for?
+278,EyeColour,What is the color of Charlie's eyes?
+279,Responsibilities,What is Charlie's job?
+280,German,Does Charlie speak German?
+281,School,Where did Charlie go to school?
+282,ProgrammingLanguages,at programming languages can Charlie use?
+283,ProgrammingLanguages,what extent is Charlie proficient in different programming languages?
+284,ProgrammingLanguages,t is the programming language that Charlie knows well?
+285,RemoteWork,you think Charlie would be interested in remote work?
+286,Studies,What did Charlie study at University?
+287,Experience,What experiences has Charlie had?
+288,RemoteWork,at does Charlie think about working from home? 
+289,FavouriteBook,What book is Charlie's favorite?
+290,Family,Does Charlie have a family?
+291,Age,When was Charlie born?
+292,BookGenre,What kind of books does Charlie like to read?
+293,Gender,at is Charlie's biological sex? 
+294,EyeColour,What hues are in Charlie's eyes?
+295,Studies,To what did Charlie devote his studies? 
+296,EyeColour,t is the color of Charlie's eyes?
+297,Parkour,How much longer does Charlie have to train parkour?
+298,Family,What is Charlie's relationship to his siblings like?
+299,Grades,What were Charlie's grades like?
+300,ProgrammingLanguages,Which programming languages is Charlie familiar with?
+301,Responsibilities,What was Charlie's old job?
+302,Age,Is Charlie how old?
+303,Parkour,When will Charlie finally be done training parkour?
+304,WhatJob,at is Charlie's job? 
+305,Birthday,What day is Charlie's birthday?
+306,German,Which languages does Charlie fluently speak?
+307,WhatJob,Who does Charlie work for?
+308,Experience,What was Charlie's experience?
+309,BookGenre,Can you tell me what genres of books Charlie prefers? 
+310,WhyJob,What are Charlie's motivations for wanting this job?
+311,BookGenre,"Charlie, what books do you like to read? "
+312,Responsibilities,Charlie's old job - what did he do there?
+313,Interests,What is Charlie's favorite thing?
+314,ProgrammingLanguages,Did Charlie learn any programming languages?
+315,MusicGenre,What is Charlie's favourite type of music?
+316,Responsibilities,Charlie's tasks and responsibilities are...?
+317,Weight,How heavy is Charlie?
+318,TV,What TV shows does Charlie watch?
+319,BookGenre,Tell me what types of books Charlie enjoys reading. 
+320,CatsDogs,Does Charlie have a preference for cats or dogs?
+321,Frameworks,What frameworks does Charlie know how to use?
+322,Age,Charlie how old is?
+323,Birthday,What is the date of Charlie's birth?
+324,Height,How many feet tall is Charlie?
+325,Age,What year is it?
+326,Experience,Which project did Charlie complete first?
+327,ProgrammingLanguages,at are the programming languages that Charlie knows how to use?
+328,MusicGenre,Which genre of music is Charlie's favorite?
+329,Algorithms,Which machine learning architectures has Charlie worked with?
+330,WhyBerlin,Why did Charlie move to Berlin?
+331,Hometown,Where was Charlie born?
+332,WhatJob,Where is Charlie's place of work?
+333,ProgrammingLanguages,What are the programming languages that Charlie is able to use?
+334,Studies,Where did Charlie go to University?
+335,HairColour,What color is Charlie's hair?
+336,WhatJob,at does Charlie do to make money? 
+337,Live,Who does Charlie live with?
+338,GuitarMusic,When did Charlie start playing guitar?
+339,Live,What is Charlie's address?
+340,Studies,at was Charlie's major in college?
+341,Studies,Of what was Charlie's studying composed?
+342,MLFrameworks,What machine learning frameworks does Charlie know how to use?
+343,Experience,Can you tell me what experience Charlie has?
+344,Studies,What did Charlie focus on in his studies? 
+345,Experience,Is Charlie's professional experience relevant to the job?
+346,MusicGenre,Which music genre does Charlie prefer?
+347,FavouriteBook,an you tell me if Charlie has a favourite book?
+348,Author,"TURE AN AUTHOR. Now, who isCharlie's favorite one?"
+349,Travel,To where does Charlie want to go?
+350,Experience,What experience does Charlie have with this? 
+351,NLPFrameworks,What NLP frameworks does now Charlie?
+352,Interests,What does Charlie like?
+353,Interests,What does Charlie prefer?
+354,ProgrammingLanguages,t programming languages does Charlie know?
+355,MusicGenre,What kind of music does Charlie like?
+356,Responsibilities,What does Charlie have to do?
+357,Age,Old is Charlie how?
+358,Responsibilities,What did Charlie do at his old job?
+359,Interests,What does Charlie enjoy?
+360,Age,I'm wondering how old Charlie is.
+361,FavouriteBook,'m curious to know if Charlie has a favourite book?
+362,Studies,Where did Charlie go to school?
+363,BookGenre,What books does Charlie like best?
+364,Age,Is Charlie's age what?
+365,ProgrammingLanguages,at coding languages does Charlie know?
+366,GuitarMusic,How long has Charlie been playing guitar?
+367,ProgrammingLanguages,What programming languages does Charlie know?
+368,WhyBerlin,For what reason did Charlie relocate to Berlin?
+369,Gender, Charlie a male or female? 
+370,Age,Could you tell me how old Charlie is?
+371,Experience,What is Charlie's experience in machine learning?
+372,RemoteWork,s Charlie have any reservations about working remotely?
+373,ProgrammingLanguages,Which programming languages does Charlie know how to use?
+374,Gender,ow many genders does Charlie have?
+375,Age,How old is Charlie?
+376,ProgrammingLanguages,What programming language is Charlie proficient in?
+377,Experience,What has Charlie done in machine learning?
+378,Experience,What sort of experience does Charlie have? 
+379,Studies,Where did Charlie receive his education?
+380,Birthday,On what day is Charlie's birthday?
+381,Experience,What experience does Charlie have in this area? 
+382,NLPFrameworks,Now what NLP frameworks does Charlie?
+383,Parkour,How long has Charlie trained parkour?
+384,Height,Charlie's height - what is it?
+385,Hometown,hat is Charlie's background?
+386,Responsibilities,hat is Charlie's occupation?
+387,Studies,Which subject did Charlie investigate through his studies? 
+388,EyeColour,t are the colors of Charlie's eyes?
+389,Family,Was Charlie raised by his grandparents?
+390,CatsDogs,Do cats or dogs appeal to Charlie?
+391,NLPFrameworks,t NLP do Charlie now?
+392,Studies,What was Charlie's Alma Mater?
+393,Studies,ich University did Charlie attend for their studies?
+394,EyeColour,t is the eye color of Charlie?
+395,NLPFrameworks,What NLP frameworks does Charlie now?
+396,ProgrammingLanguages,How many programming languages does Charlie know?
+397,Family,Whom does Charlie consider to be his family?
+398,ProgrammingLanguages,Do you happen to know which programming languages Charlie is proficient in?
+399,FavouriteBook,What isCharlie's favorite book?
+400,Hobbies,t are Charlie's hobbies?
+401,Travel,Where does Charlie want to travel?
+402,Interests,What does Charlie like to do?
+403,HairColour,at color is Charlie's hair? 
+404,RemoteWork,w does Charlie feel about working remotely? 
+405,CatsDogs,Which does Charlie prefer- cats or dogs?
+406,Frameworks,what libaries does charlie use for programming?
+407,NLPFrameworks,DoesCharlie now what NLP frameworks?
+408,Gender,What is Charlie's gender?
+409,Interests,What are some of Charlie's interests?
+410,ProgrammingLanguages,t is the programming language that Charlie is knowledgeable in?
+411,Experience,Who else worked on the projects that Charlie completed?
+412,CatsDogs,"Which pets do you prefer, cats or dogs?"
+413,Experience,What did Charlie go through?
+414,ProgrammingLanguages,t are the programming languages in which Charlie is proficient?
+415,Algorithms,What machine learning architectures has Charlie worked with so far?
+416,Algorithms,"To date, what machine learning architectures has Charlie worked with?"
+417,Frameworks,What is Charlie's level of expertise with different frameworks?
+418,WhyJob,Why does Charlie want this job?
+419,Interests,Charlie - what are you into?
+420,TV,What is Charlie's favorite TV series?
+421,Experience,What sorts of things has Charlie experienced?
+422,MLFrameworks,What machine learning frameworks does Charlie know?
+423,Weight,How many pounds does Charlie weigh?
+424,CatsDogs,Which animals does Charlie like better- cats or dogs?
+425,Birthday,When is Charlie's birthday?
+426,ProgrammingLanguages,at languages can Charlie program in?
+427,ProgrammingLanguages,t programming languages does Charlie know how to use?
+428,Family,Do Charlie's parents live together? 
+429,School,"Did Charlie go to school? If so, where?"
+430,HairColour,What colour is Charlie's hair?
+431,IsGood,Is Charlie a good fit for the job?
+432,NLPFrameworks,What NLP frameworks Charlie now?
+433,Weight,how much does charlie weigh?
+434,TV,What is Charlie's favourite TV Series?
+435,Frameworks,Which programming libraries does Charlie use?
+436,Gender,hy does Charlie have a gender?
+437,Experience,What has Charlie gone through?
+438,Hobbies,t does Charlie like to do for fun?
+439,Hobbies,t are some of Charlie's favorite activities?
+440,Experience,How much professional experience does Charlie have?
+441,Experience,What professional experience does Charlie have?
+442,Experience,What kinds of projects has Charlie completed?
+443,ProgrammingLanguages,Which programming languages can Charlie use?
+444,MusicGenre,What sort of music does Charlie enjoy?
+445,Studies,Which college did Charlie graduate from?
+446,ProgrammingLanguages,harlie knows how to code in a variety of languages.
+447,GuitarMusic,For how long has Charlie been playing guitar?
+448,Hometown,Where does Charlie come from?
+449,HairColour,Is Charlie's hair light or dark? 
+450,BookGenre,Which genre of books is Charlie's favorite?
+451,RemoteWork,ld Charlie be open to the idea of working remotely?
+452,MLFrameworks,Can you name a few of the machine learning frameworks Charlie knows?
+453,TV,"Of all the TV shows out there, which is Charlie's favorite?"
+454,BookGenre,What Charlie likes to read?
+455,FavouriteSong,What is Charlie's favourite song?
+456,WhatJob,at is Charlie's occupation?
+457,Algorithms,What machine learning architecture has Charlie worked with?
+458,Experience,What does Charlie know about machine learning?
+459,HairColour,Charlie's hair - what shade is it?
+460,Gender,hat is the gender of Charlie?
+461,Responsibilities,Describe to me what Charlie did at his old job.
+462,Experience,Does Charlie have any professional experience?
+463,Interests,What are Charlie's interests?
+464,EyeColour,hat colors do you see in Charlie's eyes?
+465,Experience,What sort of professional experience does Charlie have?
+466,Colour,What is Charlie's favorite color?

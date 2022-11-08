@@ -1,0 +1,77 @@
+﻿id,area,intent,prompt,completion
+14,ExperienceProjects,Experience,Has Charlie worked with machine learning before?,Charlie has completed various interesting machine learning projects.
+15,ExperienceProjects,Experience,What projects has Charlie completed?,Charlie has a diverse portfolio of machine learning projects.
+16,ExperienceProjects,ProgrammingLanguages,What programming language is Charlie proficient in?,Charlie is proficient in Python.
+17,ExperienceProjects,ProgrammingLanguages,Which programming languages can Charlie use?,"Charlie can use Python, C# and C++"
+18,ExperienceProjects,ProgrammingLanguages,Which programming languages does Charlie know?,"Charlie knows Python, C# and C++"
+19,ExperienceProjects,Frameworks,What programming libaries does Charlie work with?,"Charlie works with Pandas, Numpy, Tensorflow, Keras, Pytorch, scikit-learn, NLTK, Django, Docker, Kubernetes."
+20,ExperienceProjects,NLPFrameworks,What NLP frameworks does Charlie know?,"Charlie knows NLTK, Tensorflow, Keras."
+21,ExperienceProjects,Frameworks,What frameworks does Charlie know?,"Charlie knows Pandas, Numpy, Tensorflow, Keras, Pytorch, scikit-learn, NLTK, Django, Docker, Kubernetes."
+22,ExperienceProjects,MLFrameworks,What machine learning frameworks does Charlie know?,"Charlie knows Pandas, Numpy, Tensorflow, Keras, Pytorch, scikit-learn, NLTK."
+23,ExperienceProjects,Experience,What is Charlie's experience in machine learning?,"Charlie has worked with CNNs, RNNs, Transformers, Ensembles of boosting models, regression models, SVMs."
+24,ExperienceProjects,Experience,What is Charlie's experience?,Charlie has worked for 3 years as a software engineer.
+25,ExperienceProjects,Algorithms,What machine learning algorithms has Charlie worked with?,"Charlie has worked with CNNs, RNNs, Transformers, Ensembles of boosting models, regression models, SVMs."
+26,ExperienceProjects,Algorithms,What machine learning architecture has Charlie worked with?,"Charlie has worked with CNNs, RNNs, Transformers, Ensembles of boosting models, regression models, SVMs."
+27,ExperienceProjects,Experience,What professional experience does Charlie have?,Charlie has worked as a Software Engineer for over 3 years.
+28,ExperienceProjects,Experience,What experience does Charlie have?,"Charlie has worked with CNNs, RNNs, Transformers, Ensembles of boosting models, regression models, SVMs."
+48,ExperienceProjects,IsGood,Is Charlie a good fit for the job?,Charlie is a great fit for the job!
+55,ExperienceProjects,Responsibilities,What did Charlie do at his old job?,"Charlie's responsiblities include establishing requirements and specification, calculating bid proposals, software development, commissioning plants."
+56,ExperienceProjects,Responsibilities,What does Charlie do at his job?,"Charlie's responsiblities include establishing requirements and specification, calculating bid proposals, software development, commissioning plants."
+57,ExperienceProjects,Responsibilities,What does Charlie do at Bilfinger?,"Charlie's responsiblities include establishing requirements and specification, calculating bid proposals, software development, commissioning plants."
+58,ExperienceProjects,Responsibilities,What are Charlie's tasks and responsibilities?,"Charlie's responsiblities include establishing requirements and specification, calculating bid proposals, software development, commissioning plants."
+71,ExperienceProjects,WhatJob,What does Charlie do for work?,Charlie is currently a Software Engineer.
+72,ExperienceProjects,WhatJob,Where does Charlie work?,Charlie works for Bilfinger Life Science Automation GmbH.
+74,ExperienceProjects,WhyJob,Why does Charlie want this job?,Charlie loves to create with machine learning.
+1,Factual,Age,How old is Charlie?,Charlie is 28 years old.
+2,Factual,Age,What is Charlie's age?,Charlie is 28 years old.
+5,Factual,Birthday,What day is Charlie's birthday?,Charlie's birthday is the 14. September
+6,Factual,Birthday,When is Charlie's birthday?,Charlie's birthday is the 14. September
+31,Factual,EyeColour,What is Charlie's eye colour?,Charlie's eyes are brown.
+32,Factual,EyeColour,What colour are Charlie's eyes?,Charlie has brown eyes.
+33,Factual,Family,Does Charlie have a family?,"Charlie has a mother, father and 4 brothers."
+34,Factual,Family,Who are Charlie's family?,"Charlie has a mother, father and 4 brothers."
+35,Factual,Gender,What is Charlie's gender?,Charlie is a man.
+36,Factual,Gender,What gender is Charlie?,Charlie is male.
+39,Factual,HairColour,What is Charlie's hair colour?,Charlie's hair is brown.
+40,Factual,HairColour,What colour is Charlie's hair?,Charlie has brown hair.
+41,Factual,Height,How tall is Charlie?,Charlie is 180cm tall.
+42,Factual,Height,What is Charlie's height?,Charlie is 180cm tall.
+44,Factual,Hometown,Where did Charlie grow up?,"Charlie grew up in Folkestone, England."
+45,Factual,Hometown,Where is Charlie from?,"Charlie is from Folkestone, England"
+49,Factual,Live,Where does Charlie live?,"Charlie lives in Berlin, Germany."
+67,Factual,Weight,How much does Charlie weigh?,Charlie weighs 83kg
+68,Factual,Weight,How heavy is Charlie?,Charlie weighs 83kg
+43,HobbiesInterests,Hobbies,What are Charlie's hobbies?,Charlie trains calisthenics and gymnastics. He loves music and playing his guitar with friends.
+46,HobbiesInterests,Interests,What are Charlie's interests?,Charlie is really interested in machine learning because of his creativity.
+47,HobbiesInterests,Interests,What does Charlie like?,"Charlie likes creating things, playing guitar, training parkour."
+54,HobbiesInterests,Parkour,How long has Charlie trained parkour?,Charlie has trained parkour for a year.
+66,HobbiesInterests,Travel,Where does Charlie want to travel?,Charlie wants to travel around all around the world! He wants to travel a lot.
+75,HobbiesInterests,RemoteWork,Would Charlie consider remote work?,Remote work is ideal for Charlie.
+76,HobbiesInterests,RemoteWork,What does Charlie think about working remote?,Charlie would gladly work remotely.
+29,Other,German,What languages does Charlie speak?,Charlie is fluent in English and proficient in B2 German.
+30,Other,German,Does Charlie speak German?,Charlie is fluent in English and proficient in B2 German.
+73,Other,WhyBerlin,Why did Charlie move to Berlin?,Charlie loves the diversity and face-paced lifestyle of big cities.
+3,Personal,Author,Who is Charlie's favourite author?,Charlie's favourite author is Sebastian de Castell.
+4,Personal,Author,Who is Charlie's favourite author?,Charlie's favourite novels are by Sebastian de Castell.
+7,Personal,FavouriteBook,Does Charlie have a favourite book?,Charlie enjoys reading The Greatcoats by Sebastian de Castell.
+8,Personal,FavouriteBook,What is Charlie's favourite book?,Charlie's favourite book series is The Greatcoats by Sebastian de Castell.
+9,Personal,BookGenre,What kind of books does Charlie like to read?,Charlie would gladly read fantasy novels.
+10,Personal,BookGenre,What is Charlie's favourite genre of books?,Charlie's favourite books are fantasy novels.
+11,Personal,CatsDogs,Cats or dogs?,Cats and dogs.
+12,Personal,CatsDogs,Does Charlie like cats or dogs?,Charlie is a friend of all animals.
+13,Personal,Colour,What is Charlie's favourite colour?,Charlie's favourite colour is red.
+37,Personal,FavouriteSong,What is Charlie's favourite song?,Charlie's favourite song is Carry on my Wayward Son by Kansas.
+38,Personal,GuitarMusic,How long has Charlie been playing guitar?,Charlie has been playing guitar for 12 years.
+50,Personal,Movie,What is Charlie's favourite movie?,Charlie loves Hot Fuzz and movies by Edgar Wright.
+51,Personal,MusicArtist,Who is Charlie's favourite musical artist?,Charlie's favourite artist is Bliss. You should listen to him.
+52,Personal,MusicGenre,What is Charlie's favourite music genre?,Charlie loves most kinds of rock.
+53,Personal,MusicGenre,What kind of music does Charlie like?,"Charlie loves rock music, and gladly jams along to it."
+60,Personal,TV,What TV shows does Charlie watch?,Charlie's favourite TV Series is Bojack Horseman.
+61,Personal,TV,What is Charlie's favourite TV Series?,Charlie's favourite TV Series is Bojack Horseman.
+59,Studies,School,Where did Charlie go to school?,Charlie went to school at Pent Valley Technology College
+62,Studies,Studies,Where did Charlie go to University?,Charlie studied Control Systems and Mechanical Engineering at Imperial College London and the University of Exeter.
+63,Studies,Studies,Where did Charlie study?,Charlie studied Control Systems and Mechanical Engineering at Imperial College London and the University of Exeter.
+64,Studies,Studies,What did Charlie study at University?,Charlie studied Control Systems and Mechanical Engineering at Imperial College London and the University of Exeter.
+65,Studies,Studies,What did Charlie study?,Charlie studied Control Systems and Mechanical Engineering at Imperial College London and the University of Exeter.
+69,Studies,Grades,What grades did Charlie get in University?,Charlie's grades can be found on his CV.
+70,Studies,Grades,What were Charlie's grades?,Charlie's grades can be found on his CV.
