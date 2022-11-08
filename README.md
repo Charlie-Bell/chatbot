@@ -1,18 +1,28 @@
 <h2><center>Chazbot</h2></center>
 
-A landslide is the movement of a mass of rock, debris, or earth(soil) down a slope. As a common natural hazard, it can lead to significant losses of human lives and properties.
+Chazbot is
 
-https://drive.google.com/file/d/151Omr83xMpLAuhMKR7VuaUct09z9GlPk/view?usp=sharing
+A demo was created... An API key is required...
 
-Hong Kong, one of the hilly and densely populated cities in the world, is frequently affected by extreme rainstorms, making it highly susceptible to rain-induced natural terrain landslides
+[demo](https://drive.google.com/file/d/151Omr83xMpLAuhMKR7VuaUct09z9GlPk/view?usp=sharing)
+
 
 <img src = "https://drive.google.com/uc?export=view&id=1YMNwq3sM4q0WbJ0pElrtwHjO6-KDnbKj">
 
-The common practice of identifying landslides is visual interpretation which, however, is labor-intensive and time-consuming.
+So what I did was manually write 70 prompt and completion pairs, i.e. questions and answers. I then categorised these 70 pairs into 40 intents, which can be further categorised into 6 contexts.
+A sample of one is my 70 pairs would be:
+-prompt: how old is Charlie?
+-completion: he is 28 years old.
+-intent: age.
+-context: personal.
 
-***Thus, this hack focuses on automating the landslide identification process using artificial intelligence techniques***
+With these 70 samples I put them into a GPT-3 without the context or intent, just the prompt. I tasked GPT-3 to rephrase each 5x to get a dataset of about 420 samples.
+I then had another transformer model, Pegasus, reword further to generate a total 4620 samples.
+I automatically had the new intents and contexts assigned to the new samples.
 
-This is achieved by using high-resolution terrain information to perform the terrain-based landslide identification. Other auxiliary data such as the lithology of the surface materials and rainfall intensification factor are also provided.
+I then trained a small neural network to do intent classification based on the generated prompts, so that when I give it an unseen prompt, it can still classify the intent.
+
+From those intent classifications, I feed the associated context into GPT-3 along with the unseen prompt to get a new unseen completion which is generated using both the prompt and it's associated context.
 
 A total of 3 notebooks were created for this project:
 1. 1_Landslide_prediction_CNN uses a CNN approach to the problem.
