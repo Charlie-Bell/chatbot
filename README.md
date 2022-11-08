@@ -6,7 +6,7 @@ https://drive.google.com/file/d/151Omr83xMpLAuhMKR7VuaUct09z9GlPk/view?usp=shari
 
 Hong Kong, one of the hilly and densely populated cities in the world, is frequently affected by extreme rainstorms, making it highly susceptible to rain-induced natural terrain landslides
 
-<img src = "https://drive.google.com/file/d/1YMNwq3sM4q0WbJ0pElrtwHjO6-KDnbKj/view?usp=sharing">
+<img src = "https://drive.google.com/uc?export=view&id=1YMNwq3sM4q0WbJ0pElrtwHjO6-KDnbKj">
 
 The common practice of identifying landslides is visual interpretation which, however, is labor-intensive and time-consuming.
 
